@@ -48,11 +48,7 @@
 
  <div id="segment-header" class="segment">  <!-- segment-header -->
   <div class="container">  <!-- container -->
-  <div id="project-nav">
-    <a id="hl7-logo" no-external="true" href="http://www.hl7.ch">
-      <img alt="visit the hl7 website" height="50" src="/ig/ch-core/hl7-logo.png" />
-    </a>     
-  </div>
+  
   <div id="fhir-nav">
     <a no-external="true" id="fhir-logo" href="http://hl7.org/fhir"><img src="assets/images/fhir-logo-www.png" alt="Visit the FHIR website" height="50"/>
     </a>
